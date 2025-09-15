@@ -445,6 +445,12 @@ footer {
     margin-bottom: 20px;
 }
 
+.footer__anchor:hover .footer__logo--popper {
+    opacity: 1;
+    top: 0; 
+    transition: top 500ms ease, opacity 500ms ease;
+}
+
 
 /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
 
@@ -515,3 +521,4 @@ footer {
    }
 
 }
+
