@@ -186,8 +186,7 @@ nav {
 
 .about-me__picture {
     width: 100%;
-    transform: scale(1.4);
-    margin-left: 24px;
+    transform: scale(1.1);
 }
 
 .about-me__info--title {
@@ -245,6 +244,7 @@ nav {
         opacity: 1;
     }
 }
+
 
  /* TECH - STACK */
 
@@ -521,6 +521,7 @@ footer {
    }
 
 }
+
 
 
 
